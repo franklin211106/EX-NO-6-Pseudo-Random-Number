@@ -11,6 +11,7 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+```
 #include <stdio.h>
 
 #define A 1664525
@@ -38,6 +39,7 @@ int main() {
 
     return 0;
 }
+```
 
 # OUTPUT:
 ![Screenshot 2025-04-21 183304](https://github.com/user-attachments/assets/c29f4ffd-937b-444c-8795-6f01c6aa1fc8)
