@@ -1,5 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
-
+```
+NAME:FRANKLIN.F
+REG.NO:212224240041
+```
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
